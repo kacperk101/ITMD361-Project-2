@@ -52,5 +52,13 @@ section {
 	font-size: 20px;
 }
 
+#tlou, #breakingbad, #thebear, #moneyheist, #strangerthings {
+    font-size: 15px; 
+	display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 200px; 
+}
+
 
 
