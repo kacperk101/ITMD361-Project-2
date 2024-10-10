@@ -54,9 +54,9 @@ section {
 
 #tlou, #breakingbad, #thebear, #moneyheist, #strangerthings {
     font-size: 20px;
-	margin: 20px;
-    padding: 20px;
-    background-color: #ffffff; 
+	margin: 2rem auto;
+    padding: 2rem;
+    background-color: white; 
     border-radius: 8px; 
 	border-bottom: 3px solid #000000;
     padding-bottom: 20px;
@@ -66,9 +66,9 @@ section {
 
 #tlou img, #breakingbad img, #thebear img, #moneyheist img, #strangerthings img {
     display: block; 
-    margin: 0 auto; 
     max-width: 100%; 
-    height: auto; 
+    height: auto;
+    margin: 1rem auto;
 }
 
 
