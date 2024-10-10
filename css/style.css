@@ -46,5 +46,10 @@ section {
     padding: 20px;
     background-color: #ffffff; 
     border-radius: 8px; 
+	border-bottom: 1px solid #ccc;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
+
+
 
