@@ -79,7 +79,7 @@ section {
     padding: 0.5rem;
 }
 
-#moviesbody #bbheader, #tlouheader, #thebearheader, #stheader, #mhheader{
+#moviesbody #tlou, #breakingbad, #thebear, #moneyheist, #strangerthings{
     background-image: linear-gradient(to bottom, #4e4e4e, #b8b8b8); 
     background-size: cover;
     background-position: center;
