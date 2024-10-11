@@ -1,6 +1,6 @@
 body {
   font-family: 'Roboto', sans-serif;
-  background-color: #f4f4f4; /* Corrected comment syntax */
+  background-color: #f4f4f4; 
   color: #333; 
   line-height: 1.6; 
   margin: 0; 
@@ -79,10 +79,4 @@ section {
     padding: 0.5rem;
 }
 
-#moviesbody #tlou, #breakingbad, #thebear, #moneyheist, #strangerthings{
-    background-image: linear-gradient(to bottom, #4e4e4e, #b8b8b8); 
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: #FFFFFF;
-}	
+
