@@ -67,7 +67,6 @@ section {
   font-size: 1.25rem; 
   margin: 2rem auto;
   padding: 2rem; 
-  background-color: white; 
   border-radius: 0.5rem; 
   border-bottom: 0.2rem solid #000000; 
   margin-bottom: 2rem; 
@@ -89,6 +88,7 @@ section {
     margin: 0 auto;
     padding: 0.5rem;
 }
+
 
 
 
