@@ -67,8 +67,6 @@ section {
   max-width: 100%; 
   height: auto; 
   margin: 1rem auto;
-  background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
-color: #FFFFFF;
 }
 
 #bbheader, #tlouheader, #thebearheader, #stheader, #mhheader {
@@ -80,6 +78,10 @@ color: #FFFFFF;
     padding: 0.5rem;
 }
 
-#moviesbody{
-	background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+#moviesbody {
+    background-image: linear-gradient(to bottom, #4e4e4e, #b8b8b8); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #FFFFFF; 
 }
