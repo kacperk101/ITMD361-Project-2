@@ -68,3 +68,9 @@ section {
   height: auto; 
   margin: 1rem auto; 
 }
+
+#bbheader, #tlouheader, #thebearheader, #stheader, #mhheader {
+    font-size: 2.0rem;
+    border-radius: 0.3rem; 
+    border: 0.1rem solid black; 
+}
