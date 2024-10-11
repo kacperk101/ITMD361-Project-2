@@ -55,7 +55,7 @@ h1, h2 {
 section {
   margin: 20px;
   padding: 20px;
-  background-color: #ffffff; 
+  background-color: ##4f4d4d; 
   border-radius: 8px; 
   border-bottom: 3px solid #000000;
   padding-bottom: 20px;
@@ -89,5 +89,7 @@ section {
     margin: 0 auto;
     padding: 0.5rem;
 }
+
+
 
 
