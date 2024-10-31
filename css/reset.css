@@ -1,3 +1,4 @@
+
 *,
 *::before,
 *::after {
@@ -8,22 +9,16 @@
 
 html, body {
   height: 100%;
-  font-family: sans-serif;
 }
 
 body {
-  line-height: 1.5;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  line-height: 1.6;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, sans-serif;
 }
 
-img, picture, video, canvas, svg {
-  display: block;
-  max-width: 100%;
-}
 
-input, button, textarea, select {
-  font: inherit;
+ul, ol {
+  list-style: none;
 }
 
 a {
@@ -31,9 +26,14 @@ a {
   color: inherit;
 }
 
-ul, ol {
-  list-style: none;
+
+video,
+audio {
+  display: block;
+  max-width: 100%;
+  height: auto;
 }
+
 
 table {
   border-collapse: collapse;
